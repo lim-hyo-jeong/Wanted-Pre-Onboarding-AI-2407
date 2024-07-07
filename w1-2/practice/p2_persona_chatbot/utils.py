@@ -8,9 +8,12 @@ from langchain.prompts import (
 )
 from langchain.chains import LLMChain
 from langchain.memory import ConversationBufferMemory
+from dotenv import load_dotenv
 
 
 def load_model(model_name):
+    load_dotenv()
+    
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
     llm = ChatOpenAI(api_key=OPENAI_API_KEY, model_name=model_name)
     return llm 
