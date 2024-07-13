@@ -27,8 +27,8 @@ def load_model(model_name):
     return llm 
 
 
-def load_prompt(character_name):
-    with open(f"prompts/{character_name}.prompt", "r", encoding="utf-8") as file:
+def load_prompt(case):
+    with open(f"prompts/{case}.prompt", "r", encoding="utf-8") as file:
         prompt = file.read().strip()
     return prompt
 
