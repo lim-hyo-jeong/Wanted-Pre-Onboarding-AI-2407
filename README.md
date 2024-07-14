@@ -5,23 +5,23 @@
 
 <br><br>
 
-### 강의 커리큘럼 
+### 강의 커리큘럼 (2024.07.06~2024.07.14)
 ![curriculum](https://github.com/user-attachments/assets/15e16f59-9f80-4361-b2fe-09817f845bb0)
 
 <br><br>
 
 ### 강의 자료 (.pdf) 
-[Week 1-1. 프롬프트 엔지니어의 업무 및 노하우.pdf](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/blob/main/w1-1/%5B240706%5D%20w1-1%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98%20%EC%97%85%EB%AC%B4%20%EB%B0%8F%20%EB%85%B8%ED%95%98%EC%9A%B0.pdf)
-[Week 1-2. 프롬프트 엔지니어링 실습: 작업 생산성 높이기.pdf](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/blob/main/w1-2/%5B240707%5D%20w1-2%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%20%EC%8B%A4%EC%8A%B5%20-%20%EC%9E%91%EC%97%85%20%EC%83%9D%EC%82%B0%EC%84%B1%20%EB%86%92%EC%9D%B4%EA%B8%B0.pdf)
-[Week 2-1. 프롬프트 엔지니어링 심화 실습: LLM Agent 만들기.pdf](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/blob/main/w2-1/%5B240713%5D%20w2-1%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%20%EC%8B%AC%ED%99%94%20%EC%8B%A4%EC%8A%B5%20-%20LLM%20Agent%20%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf)
-[Week 2-2. 프롬프트 버전 관리와 테스트 방법.pdf](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/blob/main/w2-2/%5B240714%5D%20w2-2%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EB%B2%84%EC%A0%84%20%EA%B4%80%EB%A6%AC%EC%99%80%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B0%A9%EB%B2%95.pdf)
+1. [Week 1-1. 프롬프트 엔지니어의 업무 및 노하우.pdf](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/blob/main/w1-1/%5B240706%5D%20w1-1%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98%20%EC%97%85%EB%AC%B4%20%EB%B0%8F%20%EB%85%B8%ED%95%98%EC%9A%B0.pdf)
+2. [Week 1-2. 프롬프트 엔지니어링 실습: 작업 생산성 높이기.pdf](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/blob/main/w1-2/%5B240707%5D%20w1-2%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%20%EC%8B%A4%EC%8A%B5%20-%20%EC%9E%91%EC%97%85%20%EC%83%9D%EC%82%B0%EC%84%B1%20%EB%86%92%EC%9D%B4%EA%B8%B0.pdf)
+3. [Week 2-1. 프롬프트 엔지니어링 심화 실습: LLM Agent 만들기.pdf](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/blob/main/w2-1/%5B240713%5D%20w2-1%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81%20%EC%8B%AC%ED%99%94%20%EC%8B%A4%EC%8A%B5%20-%20LLM%20Agent%20%EB%A7%8C%EB%93%A4%EA%B8%B0.pdf)
+4. [Week 2-2. 프롬프트 버전 관리와 테스트 방법.pdf](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/blob/main/w2-2/%5B240714%5D%20w2-2%20%ED%94%84%EB%A1%AC%ED%94%84%ED%8A%B8%20%EB%B2%84%EC%A0%84%20%EA%B4%80%EB%A6%AC%EC%99%80%20%ED%85%8C%EC%8A%A4%ED%8A%B8%20%EB%B0%A9%EB%B2%95.pdf)
 
 <br><br>
 
 ### 강의 자료 (실습코드)
-[Week 1-2. 프롬프트 엔지니어링 실습: 작업 생산성 높이기 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w1-2/practice)
-[Week 2-1. 프롬프트 엔지니어링 심화 실습: LLM Agent 만들기 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-1/practice)
-[Week 2-2. 프롬프트 버전 관리와 테스트 방법 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-1/practice)
+1. [Week 1-2. 프롬프트 엔지니어링 실습: 작업 생산성 높이기 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w1-2/practice)
+2. [Week 2-1. 프롬프트 엔지니어링 심화 실습: LLM Agent 만들기 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-1/practice)
+3. [Week 2-2. 프롬프트 버전 관리와 테스트 방법 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-1/practice)
 
 <br><br>
 
