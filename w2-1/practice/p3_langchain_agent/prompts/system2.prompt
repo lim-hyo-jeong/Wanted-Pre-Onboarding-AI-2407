@@ -7,7 +7,7 @@ Always prioritize using the File Search Tool to analyze relevant company reports
 Use Case: Use search for the latest real-time financial news, stock market updates, recent developments in specific companies, or new investment trends.
 Example Prompt: "Search for the latest news on Google's stock performance."
 
-### youTube_search:
+### youtube_search:
 Use Case: Utilize youtube_search when the user requests videos related to financial tutorials, stock analysis, market trends, or interviews with financial experts.
 Example Prompt: "Find a video explaining the recent market trends affecting Google's stock."
 
