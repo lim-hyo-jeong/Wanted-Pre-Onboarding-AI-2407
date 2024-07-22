@@ -21,7 +21,89 @@
 ### 강의 자료 (실습코드)
 1. [Week 1-2. 프롬프트 엔지니어링 실습: 작업 생산성 높이기 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w1-2/practice)
 2. [Week 2-1. 프롬프트 엔지니어링 심화 실습: LLM Agent 만들기 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-1/practice)
-3. [Week 2-2. 프롬프트 버전 관리와 테스트 방법 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-1/practice)
+3. [Week 2-2. 프롬프트 버전 관리와 테스트 방법 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-2/practice)
+
+<br><br>
+
+
+### 실습 코드 실행 방법
+#### Week 1-2. 실습 코드 실행 방법
+1. OpenAI API Key 발급
+    - OpenAI API Key 발급 url: https://platform.openai.com/api-keys 
+    - OpenAI API Key 세팅: 업로드한 practice 실습 디렉토리의 각 3가지 예제 디렉토리 안에 .env 파일을 만들고 키 세팅
+    ```
+    OPENAI_API_KEY = "키 입력"
+    ```
+2. Anaconda 가상환경 생성 
+    - 업로드한 practice 실습 디렉토리에서 다음 명령어 실행
+    ```
+    conda env create -f environment.yml
+    ```
+3. Anaconda 가상환경 실행 
+    - 다음 명령어 실행
+    ```
+    conda activate wanted
+    ```
+3. p1 보고서 키워드 추출 및 요약 실습: 주피터 노트북 실행
+4. p2 페르소나 챗봇 만들기 실습: p2_persona_chatbot 디렉토리로 이동하여 다음 명령어 실행
+    ```
+    streamlit run app.py
+    ```
+5. p3 도서 베스트셀러 예측을 통한 판매량 증진 전략 실습: 주피터 노트북 실행 
+
+<br><br>
+
+#### Week 2-1. 실습 코드 실행 방법
+1. OpenAI API Key 세팅
+    - 업로드한 practice 실습 디렉토리의 각 p1, p2 예제 디렉토리 안에 .env 파일을 만들고 키 세팅
+    ```
+    OPENAI_API_KEY = "키 입력"
+    ```
+2. LangChain API Key 발급
+    - LangChain API Key 발급 url: https://www.langchain.com/langsmith
+    - LangChain API Key 세팅: 업로드한 practice 실습 디렉토리의 p3 예제 디렉토리 안에 .env 파일을 만들고 다음과 같이 세팅 (OPENAI_API_KEY와 함께 세팅하면 됩니다)
+    ```
+    OPENAI_API_KEY = “OpenAI API 키 입력“
+    LANGCHAIN_TRACING_V2=true
+    LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+    LANGCHAIN_API_KEY= ”랭체인 API 키 입력＂
+    LANGCHAIN_PROJECT= ”프로젝트 이름 입력"
+    ```
+3. Anaconda 가상환경 생성 
+    - 업로드한 practice 실습 디렉토리에서 다음 명령어 실행
+    ```
+    conda env create -f environment.yml
+    ```
+4. Anaconda 가상환경 실행 
+    - 다음 명령어 실행
+    ```
+    conda activate wanted2
+    ```
+5. p1 OpenAI Assistants API 활용 실습 (금융보고서 QA): 주피터 노트북 실행
+6. p2 LangChain Tools 실습 (90년대 인기 애니메이션의 한국어 OST 유튜브 링크 가져오기): 주피터 노트북 실행
+7. p3 LangChain Agent 실습: p3_langchain_agent 디렉토리로 이동하여 다음 명령어 실행
+    ```
+    streamlit run app.py
+    ```
+
+<br><br>
+
+#### Week 2-2. 실습 코드 실행 방법
+1. OpenAI API Key, LangChain API Key 세팅 
+    - 업로드한 practice 실습 디렉토리의 p1 예제 디렉토리 안에 .env 파일을 만들고 다음과 같이 세팅 
+    ```
+    OPENAI_API_KEY = “OpenAI API 키 입력“
+    LANGCHAIN_TRACING_V2=true
+    LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
+    LANGCHAIN_API_KEY= ”랭체인 API 키 입력＂
+    LANGCHAIN_PROJECT= ”프로젝트 이름 입력"
+    ```
+3. Anaconda 가상환경 실행 
+    - 다음 명령어 실행
+    ```
+    conda activate wanted2
+    ```
+4. p1 LangSmith Prompt Versioning 실습: 주피터 노트북 실행
 
 <br><br>
 
