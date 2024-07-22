@@ -5,7 +5,7 @@
 
 <br><br>
 
-### 강의 커리큘럼 (2024.07.06~2024.07.14)
+## 강의 커리큘럼 (2024.07.06~2024.07.14)
 ![curriculum](https://github.com/user-attachments/assets/15e16f59-9f80-4361-b2fe-09817f845bb0)
 
 <br><br>
@@ -18,7 +18,7 @@
 
 <br><br>
 
-### 강의 자료 (실습코드)
+## 강의 자료 (실습코드)
 1. [Week 1-2. 프롬프트 엔지니어링 실습: 작업 생산성 높이기 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w1-2/practice)
 2. [Week 2-1. 프롬프트 엔지니어링 심화 실습: LLM Agent 만들기 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-1/practice)
 3. [Week 2-2. 프롬프트 버전 관리와 테스트 방법 실습 코드](https://github.com/lim-hyo-jeong/Wanted-Pre-Onboarding-AI-2407/tree/main/w2-2/practice)
@@ -26,8 +26,8 @@
 <br><br>
 
 
-### 실습 코드 실행 방법
-#### Week 1-2. 실습 코드 실행 방법
+## 실습 코드 실행 방법
+### Week 1-2. 실습 코드 실행 방법
 1. OpenAI API Key 발급
     - OpenAI API Key 발급 url: https://platform.openai.com/api-keys 
     - OpenAI API Key 세팅: 업로드한 practice 실습 디렉토리의 각 3가지 예제 디렉토리 안에 .env 파일을 만들고 키 세팅
@@ -51,9 +51,9 @@
     ```
 5. p3 도서 베스트셀러 예측을 통한 판매량 증진 전략 실습: 주피터 노트북 실행 
 
-<br><br>
+<br>
 
-#### Week 2-1. 실습 코드 실행 방법
+### Week 2-1. 실습 코드 실행 방법
 1. OpenAI API Key 세팅
     - 업로드한 practice 실습 디렉토리의 각 p1, p2 예제 디렉토리 안에 .env 파일을 만들고 키 세팅
     ```
@@ -64,10 +64,10 @@
     - LangChain API Key 세팅: 업로드한 practice 실습 디렉토리의 p3 예제 디렉토리 안에 .env 파일을 만들고 다음과 같이 세팅 (OPENAI_API_KEY와 함께 세팅하면 됩니다)
     ```
     OPENAI_API_KEY = "OpenAI API 키 입력"
-    LANGCHAIN_TRACING_V2=true
-    LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-    LANGCHAIN_API_KEY= "랭체인 API 키 입력"
-    LANGCHAIN_PROJECT= "프로젝트 이름 입력"
+    LANGCHAIN_TRACING_V2 = true
+    LANGCHAIN_ENDPOINT = "https://api.smith.langchain.com"
+    LANGCHAIN_API_KEY = "랭체인 API 키 입력"
+    LANGCHAIN_PROJECT = "프로젝트 이름 입력"
     ```
 3. Anaconda 가상환경 생성 
     - 업로드한 practice 실습 디렉토리에서 다음 명령어 실행
@@ -86,17 +86,17 @@
     streamlit run app.py
     ```
 
-<br><br>
+<br>
 
-#### Week 2-2. 실습 코드 실행 방법
+### Week 2-2. 실습 코드 실행 방법
 1. OpenAI API Key, LangChain API Key 세팅 
     - 업로드한 practice 실습 디렉토리의 p1 예제 디렉토리 안에 .env 파일을 만들고 다음과 같이 세팅 
     ```
     OPENAI_API_KEY = "OpenAI API 키 입력"
-    LANGCHAIN_TRACING_V2=true
-    LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-    LANGCHAIN_API_KEY= "랭체인 API 키 입력"
-    LANGCHAIN_PROJECT= "프로젝트 이름 입력"
+    LANGCHAIN_TRACING_V2 = true
+    LANGCHAIN_ENDPOINT = "https://api.smith.langchain.com"
+    LANGCHAIN_API_KEY = "랭체인 API 키 입력"
+    LANGCHAIN_PROJECT = "프로젝트 이름 입력"
     ```
 3. Anaconda 가상환경 실행 
     - 다음 명령어 실행
@@ -107,7 +107,7 @@
 
 <br><br>
 
-### 사전과제 
+## 사전과제 
 
 1. 다양한 프롬프팅 기법 중 하나를 선택하여 그 기법의 개념과 예시를 설명하세요. (예: Few-Shot, Chain-of-Thought, ReAct 등)
 2. 프롬프트 엔지니어링 기법 중 궁금하거나 좀 더 구체적으로 알고 싶은 부분이 있다면 작성해주세요.
@@ -123,3 +123,10 @@
 3. 제목에서 제출일과 이름 부분을 수정합니다.
 4. 사전 과제의 답변을 작성합니다.
 5. `Submit new issue` 를 클릭해서 제출합니다.
+
+<br><br>
+
+## For Feedback
+* Email: lim.gadi@gmail.com
+* GitHub: [@lim-hyo-jeong](https://github.com/lim-hyo-jeong)
+* Linkedin: https://www.linkedin.com/in/lim-hyo-jeong/
