@@ -63,11 +63,11 @@
     - LangChain API Key 발급 url: https://www.langchain.com/langsmith
     - LangChain API Key 세팅: 업로드한 practice 실습 디렉토리의 p3 예제 디렉토리 안에 .env 파일을 만들고 다음과 같이 세팅 (OPENAI_API_KEY와 함께 세팅하면 됩니다)
     ```
-    OPENAI_API_KEY = “OpenAI API 키 입력“
+    OPENAI_API_KEY = "OpenAI API 키 입력"
     LANGCHAIN_TRACING_V2=true
     LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-    LANGCHAIN_API_KEY= ”랭체인 API 키 입력＂
-    LANGCHAIN_PROJECT= ”프로젝트 이름 입력"
+    LANGCHAIN_API_KEY= "랭체인 API 키 입력"
+    LANGCHAIN_PROJECT= "프로젝트 이름 입력"
     ```
 3. Anaconda 가상환경 생성 
     - 업로드한 practice 실습 디렉토리에서 다음 명령어 실행
@@ -92,11 +92,11 @@
 1. OpenAI API Key, LangChain API Key 세팅 
     - 업로드한 practice 실습 디렉토리의 p1 예제 디렉토리 안에 .env 파일을 만들고 다음과 같이 세팅 
     ```
-    OPENAI_API_KEY = “OpenAI API 키 입력“
+    OPENAI_API_KEY = "OpenAI API 키 입력"
     LANGCHAIN_TRACING_V2=true
     LANGCHAIN_ENDPOINT="https://api.smith.langchain.com"
-    LANGCHAIN_API_KEY= ”랭체인 API 키 입력＂
-    LANGCHAIN_PROJECT= ”프로젝트 이름 입력"
+    LANGCHAIN_API_KEY= "랭체인 API 키 입력"
+    LANGCHAIN_PROJECT= "프로젝트 이름 입력"
     ```
 3. Anaconda 가상환경 실행 
     - 다음 명령어 실행
